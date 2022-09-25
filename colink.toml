@@ -1,0 +1,9 @@
+[package]
+name = "greetings"
+keywords = ["greetings"]
+description = "greetings"
+entrypoint = "cargo run"
+
+[greetings]
+name = "greetings"
+description = "greetings"
