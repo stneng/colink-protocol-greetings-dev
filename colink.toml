@@ -1,5 +1,6 @@
 [package]
 name = "greetings"
+version = "0.1.1"
 keywords = ["greetings"]
 description = "greetings"
 entrypoint = "cargo run"
