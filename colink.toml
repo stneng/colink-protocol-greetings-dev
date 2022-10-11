@@ -3,6 +3,10 @@ name = "greetings"
 version = "0.1.1"
 keywords = ["greetings"]
 description = "greetings"
+install_script = """
+echo test >> test.txt
+echo test >> test.txt
+"""
 entrypoint = "cargo run"
 
 [greetings]
